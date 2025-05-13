@@ -1,6 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/AmanJaiswal9973/Monday-Coffee-Project-Teat/blob/main/1.png)
+![Company Logo](https://github.com/AmanJaiswal9973/Monday-Coffee-Project-Teat-/blob/main/1.png)
 
 
 ## Objective
