@@ -76,8 +76,7 @@ To analyze sales performance and customer behavior using SQL and Power BI, and p
 
 For questions or collaboration:  
 **Aman Jaiswal**  
-📧 [your-email@example.com]  
-📍 India
+📧 [amanjaiswal.ajja@gmail.com]  
+📍 Noida, India
 
 ---
-
