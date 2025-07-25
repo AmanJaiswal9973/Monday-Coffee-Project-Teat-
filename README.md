@@ -50,7 +50,7 @@ To analyze sales performance and customer behavior using SQL and Power BI, and p
 
 ### 🔹 Power BI Dashboard
 
-![Company Logo](https://github.com/AmanJaiswal9973/Monday-Coffee-Project-Teat-/blob/main/1.png)
+![Company Logo]([https://github.com/AmanJaiswal9973/Monday-Coffee-Project-Teat-/blob/main/1.png](https://github.com/AmanJaiswal9973/Monday-Coffee-Project-Teat-/blob/main/Monday%20Coffee%20Expansion%20Project%20Dashboard_page-0001%20(1).jpg))
 
 ## 📈 Tools Used
 
@@ -69,18 +69,6 @@ To analyze sales performance and customer behavior using SQL and Power BI, and p
 | **Pune** | High revenue, low average rent |
 | **Delhi** | Highest coffee consumers (7.8M), strong customer base |
 | **Jaipur** | High unique customers, low rent, decent average sales |
-
----
-
-
-
-### 🔹 Cover Slide
-![Cover Slide](/images/1.png)
-
----
-
-## 📁 Folder Structure
-
 
 ---
 
